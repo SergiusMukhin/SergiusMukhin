@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergiusMukhin
+- 👋 Hi, I’m Siarhei Mukhin
 - 👀 I’m interested in Data Science, Artificial intelligence and implementing AI in social sciences and games.
 - 🌱 I have skills and I'm proceeding to learn SQL, Python, R, Statistics, AI/ML.
 - 💞️ I’m looking to collaborate on the spheres of my interest, mentioned above.
